@@ -88,9 +88,13 @@ helping identify drop-offs and inefficiencies in the device lifecycle.
 ### Funnel Visualization (ASCII)
 
 Tagged Devices ██████████████████████████████ 66
+
 Dealer App Registered ████████████████████████ 52 (78.8%)
+
 KSK / Platform Linked ████████████████████████ 52 (78.8%)
+
 Subscribed Devices ████████████████████████ 52 (78.8%)
+
 Pinged in Last 7 Days ███████████████████ 40 (60.6%)
 
 ### Key Observations
