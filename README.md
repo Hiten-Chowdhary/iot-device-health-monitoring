@@ -30,11 +30,11 @@ activations.
 
 ### Sample Output
 
-| Device ID | Activation Date | Activation Time | Installation Status |
-|----------:|-----------------|-----------------|---------------------|
-| 252120    | 2025-12-24      | 03:21:38        | Installed           |
-| 252091    | 2025-12-24      | 03:19:38        | Installed           |
-| 252086    | 2025-12-24      | 03:15:24        | Installed           |
+| Device ID | Activation Date | Activation Time |     Installation Status    |
+|----------:|-----------------|-----------------|----------------------------|
+| 252120    | 2025-12-24      | 03:21:38        | Not Successfully Installed |
+| 252091    | 2025-12-24      | 03:19:38        | Installed                  |
+| 252086    | 2025-12-24      | 03:15:24        | Installed                  |
 
 ---
 
