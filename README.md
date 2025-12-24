@@ -59,7 +59,9 @@ Provides a consolidated operational snapshot per device, including:
 
 ## 3. Active Device Status – 7 Day Health Classification (Pie)
 Active (Ping < 7 Days) ██████████████████████████████ 60.6%
+
 Not Installed / Never Pinged ██████████ 21.2%
+
 Active but No Fuel Data ████████ 18.2%
 
 Classifies devices based on recent connectivity to provide a high-level fleet
